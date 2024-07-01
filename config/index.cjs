@@ -19,9 +19,7 @@ const USER_CONFIG ={
           type:"生日", name:"小王生日", date: "12-23", year: "2002"
         },
         {
-        {
           type: '节日', name: '在一起日子', year: '2024', date: '04-17',
-        }  
         }
       ],customizedDateList:[]},
     {
