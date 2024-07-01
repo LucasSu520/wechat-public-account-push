@@ -13,6 +13,8 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '48faeed1e2865415167a8d6ffe3f74b0',
 
+  IS_SHOW_COLOR: true,
+
   PROVINCE: '四川',
   CITY: '南充',
 
@@ -23,7 +25,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oJ7et6GwmnNE1o_vxvAzzUBbX3gI',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'xfFreTHn-obQQVIrlAKUs9HRGz7sJwVCZ4FJMcO3NDM',
+      useTemplateId: 'jysfKLpxPH7KTRn-fQGpWUIFDUaszyGUa1tMwM2GqFw',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-23',
       horoscopeDateType: "本周",
@@ -50,7 +52,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oJ7et6EmYNCfW62ts4ul8-7yWeSA',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'xfFreTHn-obQQVIrlAKUs9HRGz7sJwVCZ4FJMcO3NDM',
+      useTemplateId: 'jysfKLpxPH7KTRn-fQGpWUIFDUaszyGUa1tMwM2GqFw',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-23',
       horoscopeDateType: "本周",
