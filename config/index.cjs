@@ -15,8 +15,8 @@ const USER_CONFIG = {
 
   IS_SHOW_COLOR: true,
 
-  PROVINCE: '黑龙江',
-  CITY: '齐齐哈尔',
+  PROVINCE: '黑龙江省',
+  CITY: '齐齐哈尔市',
 
   USERS: [
     {
